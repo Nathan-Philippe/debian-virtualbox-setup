@@ -24,7 +24,7 @@ Le guide est rédigé en anglais et comprend des instructions pas à pas, accomp
 Clonez ce repository en utilisant la commande suivante :
 
 ```bash
-git clone https://github.com/IlyesMobarek/debian-virtualbox-setup
+git clone https://github.com/Nathan-Philippe/debian-virtualbox-setup
 ```
 
 Ensuite, suivez les étapes détaillées dans le projet pour installer et configurer Debian.
@@ -37,15 +37,6 @@ Ensuite, suivez les étapes détaillées dans le projet pour installer et config
 - **VirtualBox**
 - **GNOME Software, Snap, Flatpak**
 
----
 
-## Liens utiles
 
-Le projet est disponible sur GitHub : [Lien vers le dépôt](https://github.com/IlyesMobarek/debian-virtualbox-setup).
-
----
-
-## License
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
 
